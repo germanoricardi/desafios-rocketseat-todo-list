@@ -1,6 +1,9 @@
+![Capa da aplicação](./app-cover.png)
+
 Aplicação desenvolvida como desafio da trilha Ignite da [RockeatSeat](https://rocketseat.com.br/?utm_source=aluno&utm_medium=germano-ricardi&utm_campaign=dev_fullstack).
 
-![Capa da aplicação](./app-cover.png)
+Veja a aplicação em produção:
+[https://germano-ricardi-todo-list.vercel.app](https://germano-ricardi-todo-list.vercel.app)
 
 ## Descrição  
 
